@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/enka1504  -->
 
-<h1 align="center">Hi 👋 I'm David Kasilag</h1>
+<h1 align="center">Hi 👋 I'm Tony Billing</h1>
 <h3 align="center">Senior Full-Stack Shopify Developer • Liquid Themes • Shopify Apps • Headless Commerce</h3>
 
 <p align="center">
