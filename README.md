@@ -45,26 +45,25 @@ Senior Full-Stack Shopify Developer • High-Performance Themes • Shopify Apps
 ## 🧰 Tech Stack (Icon View)
 
 <p align="center">
-  <!-- Shopify -->
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liquid-7A5AF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Storefront%20API-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Admin%20API-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-</p>
+  <!-- Shopify First -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+  <!-- UI / Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!-- Backend / DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
 </p>
 
 ---
@@ -72,71 +71,11 @@ Senior Full-Stack Shopify Developer • High-Performance Themes • Shopify Apps
 ## ⚙️ DevOps & Delivery
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Zero--Downtime-success?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Environments-Staging%20%7C%20Production-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Webhooks-Reliable%20Events-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20Env%20Secrets-red?style=flat-square" />
-</p>
-
----
-
-## 🧩 Production Architecture
-
-
-Customer Browser
-      ↓
-Shopify Theme (Liquid / OS 2.0)
-      ↓
-Shopify Storefront API
-      ↓
-Headless Frontend (Next.js / React)
-      ↓
-Backend Services (Node.js / Express)
-      ↓
-MongoDB / External APIs
-      ↓
-Shopify Admin API & Webhooks
-Architecture principles
-
-Stateless backend services
-
-Webhook-driven event processing
-
-Secure OAuth & JWT authentication
-
-CI/CD with automated testing & deployment
-
-Performance-first theme design
-
-# 📌 Featured Repositories
-🛍️ Full-Stack & Headless Shopify
-fullstack-ecommerce-nextjs-shopify
-
-next-shopify-storefront
-
-HeadlessEcommerceStore
-
- ⚙️ Shopify Apps
-elixir-shopify-app
-
- 🧩 Liquid Theme Features
-cart-counter-in-liquid-shopify
-
-shopify-mail-notifications
-
- 📚 Currently Improving
-Shopify Checkout Extensibility
-
-Advanced theme performance tuning
-
-Scalable Liquid architecture patterns
-
-Event-driven backend design with webhooks
 
 # 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=enka1504&show_icons=true&theme=tokyonight" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enka1504&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=enka1504&theme=tokyonight" /> </p>
