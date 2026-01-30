@@ -12,12 +12,6 @@
 
 <br>
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Tony+Billing" alt="Tony" /></a>
-  <a href="https://github.com/enka1504/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/jc4xtF58Ve" alt="Discord" title="Sinularity Labs Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
@@ -45,37 +39,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://stars.github.com/profiles/enka1504/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
-
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/enka1504/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
