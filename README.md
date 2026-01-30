@@ -87,7 +87,7 @@ Senior Full-Stack Shopify Developer • High-Performance Themes • Shopify Apps
 
 ## 🧩 Production Architecture
 
-```text
+
 Customer Browser
       ↓
 Shopify Theme (Liquid / OS 2.0)
@@ -113,7 +113,7 @@ CI/CD with automated testing & deployment
 
 Performance-first theme design
 
-📌 Featured Repositories
+# 📌 Featured Repositories
 🛍️ Full-Stack & Headless Shopify
 fullstack-ecommerce-nextjs-shopify
 
@@ -121,15 +121,15 @@ next-shopify-storefront
 
 HeadlessEcommerceStore
 
-⚙️ Shopify Apps
+ ⚙️ Shopify Apps
 elixir-shopify-app
 
-🧩 Liquid Theme Features
+ 🧩 Liquid Theme Features
 cart-counter-in-liquid-shopify
 
 shopify-mail-notifications
 
-📚 Currently Improving
+ 📚 Currently Improving
 Shopify Checkout Extensibility
 
 Advanced theme performance tuning
@@ -138,9 +138,10 @@ Scalable Liquid architecture patterns
 
 Event-driven backend design with webhooks
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=enka1504&show_icons=true&theme=tokyonight" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enka1504&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=enka1504&theme=tokyonight" /> </p>
-🤝 Let’s Work Together
+
+#🤝 Let’s Work Together
 💼 Open to Shopify freelance & long-term projects
 
 🚀 Specialized in performance, scalability, and revenue-focused builds
