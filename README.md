@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- <h3 align="center">A techie passionate about Software & Shopify</h3>
+ <h3 align="center">A passionate about Software & Shopify</h3>
  <br>
  <p align="center">
   Senior Full-Stack Shopify Engineer with 8+ years of experience delivering high-traffic, revenue-critical eCommerce systems for multiple clients and agencies. Deep expertise in Shopify Plus, Headless commerce, Hydrogen, and backend systems built with Ruby, Elixir, and Python. Known for owning complex projects end-to-end while balancing engineering excellence, performance, and business impact.
@@ -46,6 +46,9 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
+<img src="https://cdn.simpleicons.org/graphql/E10098" width="28" />
+<img src="https://cdn.simpleicons.org/liquid/29B6F6" width="28" />    
+      <a href="https://github.com/search?q=user%3Aenka1504+language%3Shopif"><img src="https://cdn.simpleicons.org/shopify/96BF48" width="28"  alt="Shopify"/></a>
       <a href="https://github.com/search?q=user%3Aenka1504+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aenka1504+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aenka1504+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -159,9 +162,6 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
