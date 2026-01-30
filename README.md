@@ -39,13 +39,14 @@
 <br/>
 
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
+      <a href="https://github.com/search?q=user%3Aenka1504+language%3Aliquid"><img alt="Liquid" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aenka1504+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aenka1504+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aenka1504+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aenka1504+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -111,9 +112,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
 
-<details> 
   <summary><h2>📊 Github Activity</h2></summary>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="enka1504's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=enka1504&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
@@ -122,7 +121,6 @@
     <img src="https://raw.githubusercontent.com/enka1504/enka1504/output/github-contribution-grid-snake.svg" />
   </p>
   ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
-</details>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
