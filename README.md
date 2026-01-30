@@ -119,8 +119,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="enka1504's Github Stats" src="https://enka1504-github-readme-stats.vercel.app/api/?username=enka1504&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="enka1504's Top Languages" src="https://enka1504-github-readme-stats.vercel.app/api/top-langs/?username=enka1504&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="enka1504's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=enka1504&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="enka1504's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enka1504&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -135,17 +135,11 @@
   <!--START_SECTION:activity-->
 
 1. 
-2. 🎉 Merged PR [#619](https://github.com/enka1504/github-readme-streak-stats/pull/619) in [enka1504/github-readme-streak-stats](https://github.com/enka1504/github-readme-streak-stats)
-3. 🗣 Commented on [#619](https://github.com/enka1504/github-readme-streak-stats/issues/619) in [enka1504/github-readme-streak-stats](https://github.com/enka1504/github-readme-streak-stats)
-4. 🗣 Commented on [#618](https://github.com/enka1504/github-readme-streak-stats/issues/618) in [enka1504/github-readme-streak-stats](https://github.com/enka1504/github-readme-streak-stats)
-5. 🗣 Commented on [#616](https://github.com/enka1504/github-readme-streak-stats/issues/616) in [enka1504/github-readme-streak-stats](https://github.com/enka1504/github-readme-streak-stats)
+2. 🎉 Merged PR [#619](https://github.com/anuraghazra/github-readme-streak-stats/pull/619) in [enka1504/github-readme-streak-stats](https://github.com/anuraghazra/github-readme-streak-stats)
+3. 🗣 Commented on [#619](https://github.com/anuraghazra/github-readme-streak-stats/issues/619) in [enka1504/github-readme-streak-stats](https://github.com/anuraghazra/github-readme-streak-stats)
+4. 🗣 Commented on [#618](https://github.com/anuraghazra/github-readme-streak-stats/issues/618) in [enka1504/github-readme-streak-stats](https://github.com/anuraghazra/github-readme-streak-stats)
+5. 🗣 Commented on [#616](https://github.com/anuraghazra/github-readme-streak-stats/issues/616) in [enka1504/github-readme-streak-stats](https://github.com/anuraghazra/github-readme-streak-stats)
 <!--END_SECTION:activity-->
-
-  <h3>🌟 Sponsors</h3>
-
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-  <a href="https://github.com/sponsors/enka1504/"><img src="https://raw.githubusercontent.com/enka1504/enka1504/main/metrics-sponsors.svg" /></a>
-
 </details>
 
 <details> 
@@ -389,12 +383,3 @@
 </div>  
 
 <br/>  
-
-# 📊 GitHub Stats:
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enka1504&show_icons=true)
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=enka1504&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
