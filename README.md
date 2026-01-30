@@ -117,6 +117,10 @@
   <summary><h2>📊 Github Activity</h2></summary>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="enka1504's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=enka1504&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/enka1504/enka1504/output/github-contribution-grid-snake.svg" />
+  </p>
 </details>
 
 # 💻 My favorite tools and technologies
