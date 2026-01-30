@@ -2,6 +2,10 @@
 
 
  <h3 align="center">A techie passionate about Software & Shopify</h3>
+ <br>
+ <p align="center">
+  Senior Full-Stack Shopify Engineer with 8+ years of experience delivering high-traffic, revenue-critical eCommerce systems for multiple clients and agencies. Deep expertise in Shopify Plus, Headless commerce, Hydrogen, and backend systems built with Ruby, Elixir, and Python. Known for owning complex projects end-to-end while balancing engineering excellence, performance, and business impact.
+ </p>
 
 <p align="center">
   <a href="https://github.com/enka1504/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=enka1504&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
@@ -11,7 +15,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/jc4xtF58Ve" alt="Discord" title="Sinularity Labs Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/939270961126056048" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/enka1504"><img width="32px" alt="Dev.to" title="enka1504 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,8 +34,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/enka1504?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/enka1504?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/enka1504?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/enka1504/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/enka1504-profile-views"/></a>
 </p>
 
 <br/>
@@ -140,10 +142,6 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
@@ -215,16 +213,8 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
               <td align="center" width="96">
