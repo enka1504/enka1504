@@ -391,26 +391,10 @@
 <br/>  
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enka1504&theme=dark&show_icons=true&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=enka1504&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enka1504&theme=dark&layout=compact&hide_border=false" />
-</p>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enka1504&show_icons=true)
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enka1504&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
-</p>
-
-### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=enka1504&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-<br/>  
