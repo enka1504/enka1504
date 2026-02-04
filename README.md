@@ -29,16 +29,14 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/enka1504/custom-icon-badges -->
 <!-- View counter - https://github.com/enka1504/Simple-View-Counter -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/enka1504?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/enka1504?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/enka1504?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/enka1504?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+</p> -->
 
 <br/>
-
-
  
  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
