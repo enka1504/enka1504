@@ -11,6 +11,11 @@
   <a href="https://github.com/enka1504/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=enka1504&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
   <a href="https://github.com/enka1504/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=enka1504&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
+
+<!-- Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javiormeow&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 <br>
 
 <!-- Social icons section -->
