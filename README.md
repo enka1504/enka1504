@@ -4,7 +4,7 @@
  <h3 align="center">A passionate about Software &  AI-Powered </h3>
  <br>
  <p align="center">
-  Senior Full-Stack Shopify Engineer with 8+ years of experience delivering high-traffic, revenue-critical eCommerce systems for multiple clients and agencies. Deep expertise in Shopify Plus, Headless commerce, Hydrogen, and backend systems built with Ruby, Elixir, and Python. Known for owning complex projects end-to-end while balancing engineering excellence, performance, and business impact.
+ Senior Software Engineer with 10+ years of experience building scalable, production-grade systems across backend, full-stack, and AI-driven architectures. Specialized in designing and deploying LLM-powered solutions, including Retrieval-Augmented Generation (RAG), semantic search, and real-time data pipelines. Proven track record of delivering high-performance, reliable platforms that transform complex data into intelligent, user-facing applications. Experienced in distributed systems,microservices, and cloud-native environments, with a strong focus on performance optimization and system reliability.
  </p>
 
 <p align="center">
