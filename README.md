@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- <h3 align="center">A passionate about Software & Shopify</h3>
+ <h3 align="center">A passionate about Software &  AI-Powered </h3>
  <br>
  <p align="center">
   Senior Full-Stack Shopify Engineer with 8+ years of experience delivering high-traffic, revenue-critical eCommerce systems for multiple clients and agencies. Deep expertise in Shopify Plus, Headless commerce, Hydrogen, and backend systems built with Ruby, Elixir, and Python. Known for owning complex projects end-to-end while balancing engineering excellence, performance, and business impact.
